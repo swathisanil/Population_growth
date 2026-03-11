@@ -132,11 +132,11 @@ Models were evaluated to determine the most effective approach for **demographic
 - Countries with declining birth rates should consider **family support and demographic sustainability policies**.
 - Policymakers should incorporate **data-driven forecasting models** for long-term demographic planning.
 
-- ## Repository Structure
+## Repository Structure
 
-data/ – Demographic dataset used for analysis  
-scripts/ – Python scripts for data processing and modeling  
-images/ – Visualizations used in the README  
-reports/ – Full project report and dissertation  
-docs/ – Additional project documentation
+data/ – demographic dataset used for analysis  
+scripts/ – Python scripts for analysis and forecasting models  
+images/ – visualizations used in the README  
+reports/ – full project report  
+docs/ – supporting documentation
 
