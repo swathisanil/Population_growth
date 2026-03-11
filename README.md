@@ -31,8 +31,6 @@ These findings highlight how demographic shifts influence **global labor markets
 - Integrate **economic indicators** such as GDP, employment, and healthcare access
 - Develop **interactive analytical dashboards** for demographic insights
 
----
-
 ## 🎯 Business Problem
 
 Population dynamics directly affect **economic stability, workforce supply, healthcare demand, and migration policy decisions**. However, forecasting long-term demographic trends remains challenging due to the complex interaction of **social, economic, and policy-driven factors**.
