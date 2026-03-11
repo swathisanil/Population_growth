@@ -27,11 +27,9 @@ These insights help governments and organizations anticipate workforce availabil
 
 ## 📈 Population Forecast Using Prophet Model
 
-<p align="center">
-  <img src="images/git.png" width="800">
-</p>
+![Population Forecast](git.png)
 
-**Figure:** A plot of the forecasted total population (training data from 1950–2018) against the corresponding years using the Prophet model for all five countries from 2019–2039.
+*Figure: A plot of the forecasted total population (training data from 1950–2018) against the corresponding years using the Prophet model for all five countries from 2019–2039.*
 
 
 ## 🚀 Next Steps
