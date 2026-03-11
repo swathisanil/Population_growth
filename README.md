@@ -1,5 +1,4 @@
 
-```markdown
 # Decoding Population Dynamics: A Multifaceted Analysis of Growth Trends in India, China, U.K., U.S.A., & Brazil
 
 A data analytics and machine learning project analyzing long-term population trends across **India, China, USA, UK, and Brazil** using United Nations demographic data. The study identifies key drivers of population growth and develops predictive models to forecast demographic indicators including **Crude Birth Rate (CBR), Crude Death Rate (CDR), Net Migration Rate (CNMR), and Total Population**.
@@ -26,8 +25,6 @@ Using statistical analysis and machine learning forecasting models, the study ev
 
 These findings highlight how demographic shifts influence **global labor markets, economic sustainability, migration flows, and long-term policy planning**.
 
----
-
 ## 🚀 Next Steps
 
 - Expand forecasting to **additional countries and regions**
@@ -48,8 +45,6 @@ Population dynamics directly affect **economic stability, workforce supply, heal
 - Predicting **long-term population changes** in major global economies
 
 This project addresses these challenges by analyzing historical demographic data and building **predictive models capable of forecasting key demographic indicators and population trajectories**.
-
----
 
 ## ⚙️ Methodology
 
@@ -88,8 +83,6 @@ Several statistical and machine learning approaches were implemented:
 - Prophet Time-Series Forecasting
 
 Models were evaluated to determine the most effective approach for **demographic forecasting and population prediction**.
-
----
 
 ## 🧠 Skills & Technologies
 
