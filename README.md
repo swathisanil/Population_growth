@@ -1,5 +1,4 @@
 
-
 ```markdown
 # Decoding Population Dynamics: A Multifaceted Analysis of Growth Trends in India, China, U.K., U.S.A., & Brazil
 
@@ -120,8 +119,6 @@ Models were evaluated to determine the most effective approach for **demographic
 ### Data Source
 
 - United Nations Population Division Dataset
-
----
 
 ## 📈 Results & Business Recommendations
 
