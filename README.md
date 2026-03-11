@@ -17,13 +17,22 @@ Using statistical analysis and machine learning forecasting models, the study ev
 - **Aging demographic structures** in China and the UK
 - **Youth-dominated populations** in India and Brazil
 - **Migration as a major contributor** to population growth in the USA and UK
+  
+These insights help governments and organizations anticipate workforce availability, migration flows, and long-term economic sustainability.
 
 ### Model Comparison
 
 - **Linear Regression:** Performed best for predicting CBR, CDR, and population trends  
-- **Prophet:** Produced the most reliable long-term population forecasts  
+- **Prophet:** Produced the most reliable long-term population forecasts
 
-These findings highlight how demographic shifts influence **global labor markets, economic sustainability, migration flows, and long-term policy planning**.
+## 📈 Population Forecast Using Prophet Model
+
+<p align="center">
+  <img src="images/git.png" width="800">
+</p>
+
+**Figure:** A plot of the forecasted total population (training data from 1950–2018) against the corresponding years using the Prophet model for all five countries from 2019–2039.
+
 
 ## 🚀 Next Steps
 
